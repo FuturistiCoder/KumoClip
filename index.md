@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/FuturistiCoder/UniClip/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+UniClip is a cloud synchronized cross-platform clipboard. you can synchronize your clipboard text with your desktop/mobile devices by using UniClip. You can copy the text from a device and paste it to another device.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Available On
+* Google play:
 
-### Markdown
+<a href='https://play.google.com/store/apps/details?id=com.futuristicoder.uniclip'>
+<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/>
+</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Windows:
 
-```markdown
-Syntax highlighted code block
+<a href='//www.microsoft.com/store/apps/9n4nklcjjch9?cid=storebadge&ocid=badge'><img src='images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FuturistiCoder/UniClip/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* iOS/Mac:
+Comming soon...
