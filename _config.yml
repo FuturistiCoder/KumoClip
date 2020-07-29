@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: "UniClip - a cross-device clipboard"
-description: "UniClip is a cloud synchronized cross-platform clipboard. you can synchronize your clipboard text with your desktop/mobile devices by using UniClip. You can copy the text from a device and paste it to another device"
+title: "UniClip"
+description: "UniClip is a cloud synchronized cross-platform clipboard"
 github:
   is_project_page: false
