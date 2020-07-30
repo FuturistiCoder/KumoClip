@@ -12,7 +12,7 @@ KumoClip is a cloud synchronized cross-platform clipboard. you can synchronize y
 
 * Windows:
 
-<a href='//www.microsoft.com/store/apps/9n4nklcjjch9?cid=storebadge&ocid=badge'><img src='images/English_get-it-from-MS.png' alt='English badge' width='200'/></a>
+<a href='//www.microsoft.com/store/apps/9n4nklcjjch9?cid=storebadge&ocid=badge'><img src='images/get-it-from-ms.png' alt='English badge' width='200'/></a>
 
 * iOS/Mac:
 Comming soon...
