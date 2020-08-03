@@ -16,3 +16,21 @@ KumoClip is a cloud synchronized cross-platform clipboard. you can synchronize y
 
 * iOS/Mac:
 Comming soon...
+
+### Screenshots
+
+* Windows
+
+<p float="left">
+    <img alt='uwp clipboard' src='images/screenshot_uwp_clip.png' width='500' />
+    <img alt='uwp clipboard' src='images/screenshot_uwp_saved.png' width='500' />
+    <img alt='uwp clipboard' src='images/screenshot_uwp_manual.png' width='500' />
+</p>
+
+* Android
+
+<p float='left'>
+    <img alt='android clipboard' src='images/screenshot_android_clip.png' width='500' />
+    <img alt='android saved' src='images/screenshot_android_saved.png' width='500' />
+    <img alt='android manual' src='images/screenshot_android_manual.png' width='500' />
+</p>
